@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Benjamin+Yamoah!;" />
 </h1>
 
-<h3 align="center">A Web Developer/Designer & Software Developer From Ghana</h3>
+<h3 align="center">A Web Developer/Designer & Software Developer</h3>
 
 <br/>
 
@@ -19,7 +19,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:yamoahzeus@gmail.com">
+  <a href="mailto:benjamin.benjaminyamoah.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://benjaminyamoah.com/" target="_blank">
